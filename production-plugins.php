@@ -1,7 +1,7 @@
 <?php if ( ! defined( 'ABSPATH' ) ) exit;
 /*
 Plugin Name:  Production Plugins
-Plugin URI:   https://wakeupdreamer.com.au
+Plugin URI:   https://github.com/LucidNinja/Production-Plugins
 Description:  Deactivate unhelpful plugins on non-production sites.
 Version:      1.0.0
 Author:       Wake Up, Dreamer
