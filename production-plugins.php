@@ -14,8 +14,8 @@ if ( WP_ENV != 'production' ) {
   
   // Pass plugin folder and root php file to this array to disable plugin for non-production environments
   $plugins = array(
-    'ithemes-security-pro/ithemes-security-pro.php',
-    'backupbuddy/backupbuddy.php',
+//     'ithemes-security-pro/ithemes-security-pro.php',
+//     'backupbuddy/backupbuddy.php',
   );
   
   require_once(ABSPATH . 'wp-admin/includes/plugin.php');
