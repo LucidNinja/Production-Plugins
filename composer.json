@@ -1,6 +1,6 @@
 {
     "name": "lucidninja/production-plugins",
-    "description": "Deactivate unhelpful plugins on non-production sites.",
+    "description": "Deactivate unhelpful Wordpress plugins on non-production sites.",
     "type": "wordpress-muplugin",
     "license": "MIT",
     "authors": [
