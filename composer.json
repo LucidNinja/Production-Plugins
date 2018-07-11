@@ -1,0 +1,14 @@
+{
+    "name": "lucidninja/production-plugins",
+    "description": "Deactivate unhelpful plugins on non-production sites.",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Anderson",
+            "email": "lucid@wakeupdreamer.com.au"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
